@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Smithech. I'm a System Engineering.
-- 👀 I’m interested in in Cybersecurity and IoT.
-- 🌱 I’m currently learning design patterns, TDD, and software design principles.
-- 💞️ I’m looking to collaborate on on open source projects.
-- 📫 How to reach me? [Twitter](https://twitter.com/Smithech) and [LinkedIn](https://www.linkedin.com/in/johansmithrueda/).  
+- 👋 Hi, I’m Johan Smith — Systems Engineer
+- 🤖 Building secure AI systems and agents 
+- 🛡️ AI security & cybersecurity
+- ⚙️ Focused on scalable, real-world applications 
+- 🔐 Python | Agent SDKs | LLM-based systems
+- 🤝 Open to opportunities & collaborations
+- 📫 Connect with me on [Linktree](https://linktr.ee/smitheth)
 
-<!---
-Joh4nnSmith/Joh4nnSmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- ## 🔥 Featured Projects -->
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smithech&show_icons=true&theme=tokyonight)
+
+<!--
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smithech&layout=compact&theme=tokyonight)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Smithech&theme=tokyonight)
+
+-->
