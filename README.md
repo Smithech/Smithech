@@ -6,7 +6,12 @@
 - 🤝 Open to opportunities & collaborations
 - 📫 Connect with me on [Linktree](https://linktr.ee/smitheth)
 
-<!-- ## 🔥 Featured Projects -->
+### 📌 Resources
+- [Awesome AI Agents](https://github.com/Smithech/awesome-ai-agent) - Build and deploy autonomous and multi-agent systems powered by large language models (LLMs).
+- [Awesome Hacking Training](https://github.com/Smithech/awesome-hacking-training) - Training your hacking skills safely and legally.
+
+### 🔥 Featured Projects 
+- [Mobile Forensics Lab](https://github.com/Smithech/Mobile-Forensics-Lab/) - Hands-on Playground for Mobile Digital Forensics.
 
 <!--## 📊 GitHub Stats
 
