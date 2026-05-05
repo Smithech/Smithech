@@ -15,4 +15,5 @@
 - [Mobile Forensics Lab](https://github.com/Smithech/Mobile-Forensics-Lab/) - Hands-on Playground for Mobile Digital Forensics.
 
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Smithech&border_radius=5.5&hide=hours%2Cgrade%2Cavg%2Cactive_day%2Ctrend%2Cstreak%2Cweek)
+### Stats
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Smithech&hide_title=true&border_radius=5.5&size=compact&hide=hours%2Cgrade%2Cavg%2Cactive_day%2Ctrend%2Cstreak%2Cweek%2Cissues)
