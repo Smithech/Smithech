@@ -11,17 +11,8 @@
 - [Awesome Hacking Training](https://github.com/Smithech/awesome-hacking-training) - Training your hacking skills safely and legally.
 
 ### 🔥 Featured Projects 
+- [Data Leak Inspector](https://github.com/Smithech/data-leak-inspector) - A CLI tool that helps you identify potentially exposed files in your storage systems.
 - [Mobile Forensics Lab](https://github.com/Smithech/Mobile-Forensics-Lab/) - Hands-on Playground for Mobile Digital Forensics.
 
-<!--## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smithech&show_icons=true&theme=tokyonight) -->
-
-<!--
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smithech&layout=compact&theme=tokyonight)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Smithech&theme=tokyonight)
-
--->
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Smithech&border_radius=5.5&hide=hours%2Cgrade%2Cavg%2Cactive_day%2Ctrend%2Cstreak%2Cweek)
