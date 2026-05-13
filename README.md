@@ -10,6 +10,9 @@
 - [Awesome AI Agents](https://github.com/Smithech/awesome-ai-agent) - Build and deploy autonomous and multi-agent systems powered by large language models (LLMs).
 - [Awesome Hacking Training](https://github.com/Smithech/awesome-hacking-training) - Training your hacking skills safely and legally.
 
+### AI Projects
+- [AI Workflow Agent](https://github.com/Smithech/ai-workflow-agent) - A modular monolith project built with Python and LangChain for automating AI-powered workflows.
+
 ### 🔥 Featured Projects 
 - [Data Leak Inspector](https://github.com/Smithech/data-leak-inspector) - A CLI tool that helps you identify potentially exposed files in your storage systems.
 - [Mobile Forensics Lab](https://github.com/Smithech/Mobile-Forensics-Lab/) - Hands-on Playground for Mobile Digital Forensics.
