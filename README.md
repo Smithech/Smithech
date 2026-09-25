@@ -15,6 +15,7 @@
 - [AI Ops Agent](https://github.com/Smithech/ai-ops-agent) - An AI Ops Agent for Operational Support Automation.
 
 ### 🔥 Featured Projects 
+- [Monitor Agent](https://github.com/Smithech/monitor-agent/tree/main) - Lightweight Linux resource monitoring agent written in Go, designed to run continuously on low-resource devices such as Raspberry Pi.
 - [Data Leak Inspector](https://github.com/Smithech/data-leak-inspector) - A CLI tool that helps you identify potentially exposed files in your storage systems.
 - [Mobile Forensics Lab](https://github.com/Smithech/Mobile-Forensics-Lab/) - Hands-on Playground for Mobile Digital Forensics.
 
