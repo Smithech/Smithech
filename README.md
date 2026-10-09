@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Johan Smith — Systems Engineer
-- 🤖 Building secure AI systems and agents 
+- 🤖 Building secure AI systems and workflows 
 - 🛡️ AI security & cybersecurity
 - ⚙️ Focused on scalable, real-world applications 
-- 🔐 Python | Agent SDKs | LLM-based systems
+- 🔐 Agent SDKs | LLM-based systems
+- 👨🏻‍💻 Python | Go
 - 🤝 Open to opportunities & collaborations
 - 📫 Connect with me on [Linktree](https://linktr.ee/smitheth)
 
@@ -11,6 +12,7 @@
 - [Awesome Hacking Training](https://github.com/Smithech/awesome-hacking-training) - Training your hacking skills safely and legally.
 
 ### 🤖 AI Projects
+- [AI Incident Commander](https://github.com/Smithech/ai-incident-commander) - AI-assisted incident investigation system that orchestrates diagnostic tools, gather operational evidence, and evaluates root-cause hypotheses through controlled and traceable workflows.
 - [AI Workflow Agent](https://github.com/Smithech/ai-workflow-agent) - A modular monolith project built with Python and LangChain for automating AI-powered workflows.
 - [AI Ops Agent](https://github.com/Smithech/ai-ops-agent) - An AI Ops Agent for Operational Support Automation.
 
