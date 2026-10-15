@@ -15,6 +15,7 @@
 - [AI Incident Commander](https://github.com/Smithech/ai-incident-commander) - AI-assisted incident investigation system that orchestrates diagnostic tools, gather operational evidence, and evaluates root-cause hypotheses through controlled and traceable workflows.
 - [AI Workflow Agent](https://github.com/Smithech/ai-workflow-agent) - A modular monolith project built with Python and LangChain for automating AI-powered workflows.
 - [AI Ops Agent](https://github.com/Smithech/ai-ops-agent) - An AI Ops Agent for Operational Support Automation.
+- [PixelGuard](https://github.com/Smithech/PixelGuard) — An Product Image Quality and Duplicate Auditor
 
 ### 🔥 Featured Projects 
 - [Monitor Agent](https://github.com/Smithech/monitor-agent/tree/main) - Lightweight Linux resource monitoring agent written in Go, designed to run continuously on low-resource devices such as Raspberry Pi.
